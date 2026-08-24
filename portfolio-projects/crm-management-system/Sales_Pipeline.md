@@ -171,6 +171,19 @@ Record:
 
 ---
 
+# Pipeline Example
+
+New Lead
+    ↓
+Initial Contact
+    ↓
+Qualified Lead
+    ↓
+Solution Presented
+    ↓
+Negotiation
+    ↓
+Closed Won
 
 
 ---
@@ -195,6 +208,3 @@ A structured pipeline helps businesses:
 - Sales Process Documentation
 - Customer Relationship Management
 - Business Operations
-
-# Pipeline Example
-
