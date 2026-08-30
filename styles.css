@@ -1,6 +1,6 @@
 /* =========================================================
-   AKASH SINGH PORTFOLIO V2.1
    CLEAN MASTER STYLESHEET
+   AKASH SINGH PORTFOLIO V2.1
    ========================================================= */
 
 
@@ -2472,4 +2472,22 @@ footer {
   .operations-dashboard {
     transform: none;
   }
+}
+.project-label {
+  display: inline-block;
+  margin-bottom: 14px;
+  padding: 6px 10px;
+  border: 1px solid #d7e3ff;
+  border-radius: 999px;
+  background: #f1f6ff;
+  color: #155eef;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: .12em;
+}
+
+.project-disclaimer {
+  margin-top: 18px;
+  color: #7a8494;
+  font-size: 13px;
 }
