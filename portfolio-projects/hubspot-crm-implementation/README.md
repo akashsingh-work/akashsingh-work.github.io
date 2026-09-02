@@ -1,4 +1,36 @@
-# HubSpot CRM Implementation Project
+# HubSpot CRM Workflow — Demo Project
+
+A self-created HubSpot CRM demonstration project built to showcase practical CRM operations using a simulated SaaS business environment.
+
+## What I Built
+
+- Contact management
+- Company management
+- Deal pipeline
+- Ticket management
+- CRM workflow organization
+- Reporting and operational visibility
+
+## Project Purpose
+
+This project was created to demonstrate how I would structure and manage a CRM environment for a growing SaaS business.
+
+The project focuses on organizing customer information, tracking sales opportunities, managing support requests and maintaining operational visibility.
+
+## Important Note
+
+This is a self-created demonstration project using fictional business data.
+
+No real customer, company or client information is used.
+
+## Tools
+
+- HubSpot CRM
+- CRM Pipelines
+- Contacts & Companies
+- Deals
+- Tickets
+- Reporting Dashboard
 
 ## Overview
 
