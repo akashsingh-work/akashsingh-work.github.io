@@ -2515,3 +2515,32 @@ footer {
 .project-meta .project-category {
   margin: 0;
 }
+/* Resume Button */
+.btn-resume {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 20px;
+  border: 1px solid rgba(21, 94, 239, 0.25);
+  border-radius: 10px;
+  background: #ffffff;
+  color: #155eef;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  text-decoration: none;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease,
+    border-color 0.2s ease,
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.btn-resume:hover {
+  background: #155eef;
+  color: #ffffff;
+  border-color: #155eef;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(21, 94, 239, 0.18);
+}
